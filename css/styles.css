@@ -1,0 +1,84 @@
+body {font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #2E2F42;}
+    .logo {font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #2E2F42;
+        text-decoration: none;}
+    .style-logo {color: #4D5AE4}
+    .item-link { text-decoration: none;}
+    .item-link { list-style-type: none;}
+    .item-link:hover,
+    .item-link:focus { color: #4D5AE5;}
+    .address .add-link {font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+    text-decoration: underline;
+}
+        .address .add-link:hover,
+        .address .add-link.item-link:focus { color: #404bbf}
+        ul {list-style-type: none;}
+/*Section1*/
+    .page-title {font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        text-align: center;
+        background-color: #2e2f42;
+        color: #fff;}
+        .button { cursor: pointer;}
+        .button {font-weight: 500;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0.04em;
+                color: #fff;}
+    .button {background-color: #404BBF}
+    .button:hover {background-color:#4d5ae5;}
+/*Section2*/
+.section-title {font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;}
+     .title {font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #2e2f42;}
+        .text {font-weight: 400;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #434455;}
+/*Section3*/
+.team-title{ont-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;}
+    .team-text{font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;}
+/*Section4*/
+
+.footer-logo {color: #f4f4fd;
+background-color: #2e2f42;}
+.text-footer {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+background-color: #2e2f42;}
