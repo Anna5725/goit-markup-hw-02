@@ -48,7 +48,7 @@ background-color: #FFFFFF;}
                 letter-spacing: 0.04em;
                 color:  #fff;
      background-color: #4D5AE5}
-    .button:hover {background-color: #404bbf;}
+    .button:hover {background-color: #404BBF;}
 /*Section2*/
 .section-two-title {font-weight: 700;
     font-size: 36px;
@@ -68,7 +68,7 @@ background-color: #FFFFFF;}
             letter-spacing: 0.02em;
             color: #434455;}
 /*Section3*/
-.section-three {background-color:  #FFFFFF;}
+.section-three {background-color: #F4F4FD;}
 .section-three-title {font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -76,7 +76,7 @@ background-color: #FFFFFF;}
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;}
-    .images-list {background-color: #FFFFFF;}
+    .img-list-item {background-color: #FFFFFF;}
 .team-title{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
