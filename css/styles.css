@@ -21,7 +21,7 @@ background-color: #FFFFFF;}
     .nav-link { list-style-type: none;}
     .nav-link:hover,
     .nav-link:focus { color: #404bbf;}
-    .contacts {font-weight: 400;
+    .address-link {font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -46,7 +46,7 @@ background-color: #FFFFFF;}
                 line-height: 1.5;
                 letter-spacing: 0.04em;
                 color: #fff;}
-    .button {background-color: #4d5ae5}
+    .button {background-color: #404BBF}
     .button:hover {background-color:#404bbf;}
 /*Section2*/
 .section-two-title {font-weight: 700;
@@ -96,7 +96,8 @@ background-color: #FFFFFF;}
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;}
-.footer {background-color: #2e2f42;}
+.portfolio-list {background-color: #FFFFFF; }
+    .footer {background-color: #2e2f42;}
 .footer-logo {color: #f4f4fd;}
 .text-footer {font-weight: 400;
     font-size: 16px;
